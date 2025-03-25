@@ -1,4 +1,4 @@
-# Pontuação = 100
+# Pontuação = 100 / 100
 n = int(input())
 
 res = 0

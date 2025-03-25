@@ -1,4 +1,4 @@
-# Pontuação = 100
+# Pontuação = 100 / 100
 def encontrar_menor_c(a, b):
   c = 2 * a - b
   return c

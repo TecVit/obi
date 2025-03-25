@@ -1,4 +1,4 @@
-# Pontuação = 30
+# Pontuação = 30 / 100
 numbers = int(input())
 
 # Amigos

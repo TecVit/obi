@@ -1,4 +1,4 @@
-# Pontuação = 100
+# Pontuação = 100 / 100
 def sumNumbers(number):
   sum = 0
   for i in number:

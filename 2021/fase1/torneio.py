@@ -1,4 +1,4 @@
-# Pontuação = 100
+# Pontuação = 100 / 100
 vitorias = 0
 
 for i in range(6):
