@@ -33,7 +33,7 @@ def main():
     if letra != '-':
       print(letras[letra], end="")
     else:
-      print("-", end="")  
+      print("-", end="")
 
 if __name__ == "__main__":
   main()

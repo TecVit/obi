@@ -8,4 +8,4 @@ def main():
   print(f"Guilherme: {21 + n} anos")
 
 if __name__ == "__main__":
-  print()
+  main()
