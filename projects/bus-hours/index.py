@@ -35,7 +35,7 @@ def main():
         1212, 1247, 1282, 1317, 1354, 1394
     ]
 
-    i = 14
+    i = 7
     horario_referencia = indaia[i]
 
     tempo_referencia = 30
